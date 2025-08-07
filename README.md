@@ -14,5 +14,5 @@ This project was built as part of a Coursera guided project to deploy a machine 
 - Pandas
 
 ## 🏁 Getting Started
-Install requirements: pip install -r requirements.txt
+Install requirements: ```pip install -r requirements.txt```
 
